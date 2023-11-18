@@ -1,6 +1,6 @@
-# Stock Data Visualizer
+# Stock Data Visualizer Unit Test
 
-Scrum Team 2: Alex Franklin, James Keating, Gerard Lucas, Tom O'Keefe, Jacob Timlin
+James Keating
 
 ### To Install Dependencies
 
@@ -12,4 +12,5 @@ an API key from [Alpha Vantage](https://www.alphavantage.co/) is required. Set y
 
 ### Run the Application
 
-StockDriver.py is the main entry point for the application.
+StockDriver.py is the main entry point for the application,
+"mod13_jpkh22.py" is the Unit Test program.
